@@ -22,3 +22,11 @@ header {
   text-decoration: none;
   padding: 10px;
 }
+
+.nav-link:hover {
+  color: black;
+  background-color: white;
+  border-radius: 4px;
+}
+
+
